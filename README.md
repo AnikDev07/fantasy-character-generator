@@ -49,10 +49,4 @@ The production server serves the built app and API from one Node.js process. It 
 | `GEMINI_API_KEY` | No | Enables Gemini-powered story and portrait generation. Without it, the app uses procedural stories and bundled portraits. |
 | `PORT` | No | Port used by the server. Defaults to `3000`. |
 
-## Before making the repository public
-
-- Confirm that you have permission to share the bundled artwork.
-- Choose and add a license if you want to grant others permission to reuse the code.
-- Never commit `.env` or a real API key.
-
-The project does not include a license yet. It is ready to upload as a private repository; complete the checklist above before presenting it as an open-source project.
+The project does not include a license yet. It is ready to upload as a private repository.
