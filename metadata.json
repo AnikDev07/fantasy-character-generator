@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Creator",
+  "description": "An alchemical fantasy character creator and bordered player card forge with randomized Health, Mana, and Strength stats, cartoon portrait generation, backstory divination, and a My Deck vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
